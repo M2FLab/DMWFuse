@@ -1,6 +1,6 @@
 # DMWFuse: A Universal Framework for Degradation-Adaptive RGB-IR Image Fusion
 
-Keming Bai, Linyuan He, Shiping Ma, Jiahao Dang, Kun Liu, Mingzhao Han, and Xiaoyu Cai
+Keming Bai, Linyuan He, Shiping Ma, Jiahao Dang, Kun Liu, Jiacheng Ni, Mingzhao Han, and Xiaoyu Cai
 
 - [*[Paper]*]()
 - [*[GitHub]*](https://m2flab.github.io/DMWFuse/)
@@ -155,5 +155,6 @@ If you have any other questions about the code, please email `hal1983@163.com`.
 ## Citation
 
 If this work has been helpful to you, please feel free to cite our paper!
+
 
 
