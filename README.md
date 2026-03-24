@@ -18,12 +18,6 @@ Keming Bai, Linyuan He, Shiping Ma, Jiahao Dang, Kun Liu, Jiacheng Ni, Mingzhao 
    - [DeMMI-RF](https://github.com/LeeX54946/TG-ECNet)
 ---
 
-### Download
-
-- [Baidu Yun](https://pan.baidu.com/s/1KbaGUXzuOW6ej4maHN5ZcQ?pwd=TGEC)
-
----
-
 <h2> <p align="center"> DMWFuse </p> </h2>  
 
 ---
